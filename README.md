@@ -2,7 +2,7 @@ Yo, how's it hanging?
 
 **About me**
 
-- 💼 DevOps Engineer at [efio](https://efio.dk/)
+- 💼 DevOps Engineer/Cloud Architect at [efio](https://efio.dk/)
 - 🥸 [LinkedIn profile](https://www.linkedin.com/feed/?trk=homepage-basic_signin-form_submit)
 - 🥷 Almost all my commits are private... 
 
