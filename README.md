@@ -7,15 +7,6 @@ Yo, how's it hanging?
 | <a href="https://github.com/asge1172/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=asge1172&show_icons=true&count_private=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Asger's github stats" /></a> | <a href="https://github.com/asge1172/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asge1172&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-#### Top Repositories
-
-
-<a href="https://github.com/asge1172/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=asge1172&repo=asgerlarsen&theme=buefy" />
-</a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
-</a>
 
 <br />
 <br />
